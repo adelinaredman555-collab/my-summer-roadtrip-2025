@@ -1,17 +1,24 @@
 body{ 
   font-family: "Pacifico", cursive;
-    background-color:#a4161a
-    color:red
-}
-h1{
-    color:antiquewhite
+    background-color:#ad2831
 }
 
-h2{
-    background-color: antiquewhite;
- {font-family: "Story Script", sans-serif;
+header{
+    background-color: azure;
+    font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+    h2{
+        background-color: azure;
+  font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
+h2{
+    background-color: antiquewhite;
+ font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
