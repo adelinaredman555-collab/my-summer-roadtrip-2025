@@ -9,7 +9,8 @@ header{
   font-weight: 400;
   font-style: normal;
 }
-    h1{
+  h1 {
+  text-align: center;
         background-color: azure;
   font-family: "Story Script", sans-serif;
   font-weight: 400;
