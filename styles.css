@@ -1,9 +1,11 @@
 body{ 
+  text-align: center;
   font-family: "Pacifico", cursive;
     background-color:#ad2831
 }
 
 header{
+  text-align: center;
     background-color: azure;
     font-family: "Story Script", sans-serif;
   font-weight: 400;
