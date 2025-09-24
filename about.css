@@ -4,6 +4,9 @@ body{
 }
 
 h1{
+    font-family: "Astloch", system-ui;
+  font-weight: 700;
+  font-style: normal;
    margin: 100px;
   line-height: 1; 
   font-size: 100%;
