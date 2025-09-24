@@ -1,6 +1,6 @@
 body{
     background-color:#ffd60a;
-    text align:justify;
+    text align:center;
 }
 
 h1{
@@ -9,8 +9,10 @@ h1{
   font-size: 100%;
   border: 1px solid white;
   background-color: azure;
+  text-align: left;
 }
 p{ 
     margin: 15px 0;
     background-color: azure;
+    text-align: left;
 }
