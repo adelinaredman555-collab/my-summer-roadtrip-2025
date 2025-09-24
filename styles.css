@@ -68,9 +68,4 @@ nav a {
 nav a:hover {
   color: #ffcc00; /* yellow when hovering */
 }
-h1{
-  font-family: "Astloch", system-ui;
-  font-weight: 700;
-  font-style: normal;
-}
 
