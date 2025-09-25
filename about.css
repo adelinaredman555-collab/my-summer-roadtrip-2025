@@ -16,10 +16,12 @@ banner {
   border-bottom: 5px solid #222;
 }
 banner h1 {
+    background-color: #ddd;
   margin: 0;
   font-size: 2.5rem;
 }
 banner p {
+    background-color: #fff;
   font-size: 1.2rem;
 }
 
