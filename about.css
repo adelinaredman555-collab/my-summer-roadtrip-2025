@@ -3,6 +3,13 @@ body{
     text align:center;
 }
 
+p{
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
 h1{
     font-family: "Astloch", system-ui;
   font-weight: 700;
