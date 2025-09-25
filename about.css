@@ -9,7 +9,6 @@ font-family: "Annie Use Your Telescope", cursive;
 
 /* Banner/Header */
 banner {
-  background: linear-gradient(to right, #4a90e2, #50c9c3);
   color: white;
   text-align: center;
   padding: 60px 20px;
