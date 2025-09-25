@@ -1,11 +1,11 @@
 /* General Page Style */
 body {
-  font-family: 'Astloch', cursive, sans-serif;
+font-family: "Shadows Into Light", cursive;
   margin: 0;
   padding: 0;
   background-color: #fdfdfd;
   color: #333;
-  line-height: 1.6;
+  line-height: 1.6;font: sans-serif;
 }
 
 /* Banner/Header */
