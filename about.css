@@ -1,8 +1,8 @@
 body {
   background-image: url("Images/page\ 2\ background.jpg");
-  background-repeat: no-repeat;
-    text align:center;
-}
+  background-repeat:no-repeat;
+  background-color:#ffd500;
+    text align:justify;
 section {
   border: 3px solid #4a90e2; /* blue border */
   border-radius: 15px; /* rounded corners */
